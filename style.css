@@ -1,0 +1,12 @@
+
+/*  <p style="font-size: 12px;"> Big text </p> (font: 18px/1.5, san-serif;)
+    <div style="border: 2px solid #000;">
+    <p style="text-align: center;"> Big text </p>
+    .text {  font: italic bold 24px Arial, sans-serif; } - можно объединить все в одно, порядок важен - гугли
+    display: flex;
+    flex-wrap: wrap/wrap-reverse;
+    justify-content и align-items,
+    @media (max-width: 700px)/orientation - условие для выполнения функций
+    @keyframes color-change... .animation-text {  animation: color-change 3s infinite;}
+    :root {  --main-color: #000000;}    .news-block {  background-color: var(--main-color);} - переменная
+*/
